@@ -58,12 +58,24 @@ User A is a pet owner?, exercise enthusiast?, and already tracks steps?
 
 After 24 hours, user (met/did not meet) step goal.
 
+#### Scenarios
+1. User (fed/did not feed) pet
+2. User (leveled up/did not level up) pet
+3. User (joined/did not join) a challenge
+4. User (viewed/did not view) the leaderboard
+
 ### User B
 _Test took place on 00/00/2023 at location._
 
 User A is a pet owner?, exercise enthusiast?, and already tracks steps?
 
 After 24 hours, user (met/did not meet) step goal.
+
+#### Scenarios
+1. User (fed/did not feed) pet
+2. User (leveled up/did not level up) pet
+3. User (joined/did not join) a challenge
+4. User (viewed/did not view) the leaderboard
 
 ### User C
 _Test took place on 00/00/2023 at location._
@@ -72,12 +84,24 @@ User A is a pet owner?, exercise enthusiast?, and already tracks steps?
 
 After 24 hours, user (met/did not meet) step goal.
 
+#### Scenarios
+1. User (fed/did not feed) pet
+2. User (leveled up/did not level up) pet
+3. User (joined/did not join) a challenge
+4. User (viewed/did not view) the leaderboard
+
 ### User D
 _Test took place on 00/00/2023 at location._
 
 User A is a pet owner?, exercise enthusiast?, and already tracks steps?
 
 After 24 hours, user (met/did not meet) step goal.
+
+#### Scenarios
+1. User (fed/did not feed) pet
+2. User (leveled up/did not level up) pet
+3. User (joined/did not join) a challenge
+4. User (viewed/did not view) the leaderboard
 
 ### User E
 _Test took place on 00/00/2023 at location._
