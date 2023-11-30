@@ -2,10 +2,9 @@
 
 ## User Goals
 
-1. Meet step goal for one day, feed pet 
-2. Level up pet 
-3. Join a challenge 
-4. View the leaderboard and find self
+1. User wants to meet their daily step goal to keep their pet happy and healthy
+2. User forms the positive habit of walking daily
+3. User feels loved
 
 ## Scenarios
 
