@@ -3,8 +3,8 @@
 ## User Goals
 
 1. User wants to meet their daily step goal to keep their pet happy and healthy
-2. User forms the positive habit of walking daily
-3. User feels loved
+2. User recognizes the potential of forming the positive habit of walking daily
+3. User forms an emotional bond with their pet
 
 ## Scenarios
 
