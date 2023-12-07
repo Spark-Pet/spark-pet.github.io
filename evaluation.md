@@ -39,7 +39,7 @@ Participants were recruited through the project team's friends, family, and clas
 
 ## Consent Form
 
-[Here](#) is a copy of the consent form used for this user study.
+[Here](/consent) is a copy of the consent form used for this user study.
 A hard copy of the signed consent form for each participant has been collected by the project team.
 
 ## Procedure
