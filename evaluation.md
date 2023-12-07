@@ -21,7 +21,7 @@ _Success_: User levels up pet and increases daily step goal. User is a little ne
 #### Scenario 3
 _Prompt_: You have been using SparkPet for a few days and you want to join a challenge to further motivate yourself and earn more $bones (which can be used to purchase accessories for your pet).
 
-_Success_: User joins a challenge and is excited to meet challenge goal. User wants to earn $bones and make their pet happy with new accessories.
+_Success_: User browses current challenges and finds one that they want to try. User wants to earn $bones and make their pet happy with new accessories.
 
 #### Scenario 4
 _Prompt_: You have been using SparkPet for a few days and you want to see how you are doing compared to other users.
@@ -44,82 +44,64 @@ A hard copy of the signed consent form for each participant has been collected b
 
 ## Procedure
 
-The application was loaded onto each user's gphone. Each user was given a brief introduction to the concept of the app and were informed that they were required to meet a oal of 2,000 steps in the next 24 hours or their pet would suffer. Users were instructed to meet with the project team the following day to discuss their experience with the application.
+The application was loaded onto each user's phone. Each user was given a brief introduction to the concept of the app and were informed that they were required to meet a goal of 2,000 steps in the next 24 hours or their pet would suffer. Users were instructed to meet with the project team the following day to discuss their experience with the application.
 
 After 24 hours, the project team met with each user individually to discuss their experience with the application. Each of the scenarios above were presented to the user. The project team observed the user's interaction with the application and took notes on the user's experience. At the conclusion of the test, the project team asked the user to provide feedback on the application.
 
 ## Participants
 
 ### User A
-_Test took place on 00/00/2023 at location._
+_Test took place on 12/01/2023 at UH Manoa._
 
-User A is a pet owner?, exercise enthusiast?, and already tracks steps?
+User A is not a pet owner, does not exercise regularly, and does not currently use another application to track their steps.
 
-After 24 hours, user (met/did not meet) step goal.
+After 24 hours, user met step goal.
 
 #### Scenarios
-1. User (fed/did not feed) pet
-2. User (leveled up/did not level up) pet
-3. User (joined/did not join) a challenge
-4. User (viewed/did not view) the leaderboard
+1. User fed pet. User commented that they now felt pressure about meeting the step goal for the following day.
+2. User did not level up pet. User did not want to increase step goal.
+3. User did not want to join a challenge. User felt enough pressure to meet their own step goal and did not want to wager their hard-earned $bones.
+4. User viewed the leaderboard and commented that they were surprised they made the top 10.
 
 ### User B
-_Test took place on 00/00/2023 at location._
+_Test took place on 12/01/2023 at UH Manoa._
 
-User A is a pet owner?, exercise enthusiast?, and already tracks steps?
+User B is a pet owner, does not exercise regularly, and does not already track steps.
 
-After 24 hours, user (met/did not meet) step goal.
+After 24 hours, user did not meet step goal (claimed that they forgot).
 
 #### Scenarios
-1. User (fed/did not feed) pet
-2. User (leveled up/did not level up) pet
-3. User (joined/did not join) a challenge
-4. User (viewed/did not view) the leaderboard
+1. User did not feed pet. User comment that the dog looked sad and they felt bad.
+2. User did not level up pet (option not available).
+3. User wanted to join a challenge. User commented that it would be helpful to have a notification to remind them to meet their step goal/challenge goal.
+4. User viewed the leaderboard and said they could do better than most of the users in the top 10.
 
 ### User C
-_Test took place on 00/00/2023 at location._
+_Test took place on 12/04/2023 in downtown Honolulu._
 
-User A is a pet owner?, exercise enthusiast?, and already tracks steps?
+User C is a not pet owner, exercises regularly, and already tracks steps (though doesn't take it too seriously).
 
-After 24 hours, user (met/did not meet) step goal.
+After 24 hours, user met step goal.
 
 #### Scenarios
-1. User (fed/did not feed) pet
-2. User (leveled up/did not level up) pet
-3. User (joined/did not join) a challenge
-4. User (viewed/did not view) the leaderboard
+1. User fed pet. User commented that they wanted to feed the pet again the next day.
+2. User leveled up pet. User commented that they wanted to see how high they could level up.
+3. User wanted to join a challenge. User commented that they were certain that they could win the challenge.
+4. User viewed the leaderboard and said that they would be motivated to get up to the number 1 spot.
 
 ### User D
-_Test took place on 00/00/2023 at location._
 
-User A is a pet owner?, exercise enthusiast?, and already tracks steps?
-
-After 24 hours, user (met/did not meet) step goal.
-
-#### Scenarios
-1. User (fed/did not feed) pet
-2. User (leveled up/did not level up) pet
-3. User (joined/did not join) a challenge
-4. User (viewed/did not view) the leaderboard
+_Not yet complete_
 
 ### User E
-_Test took place on 00/00/2023 at location._
 
-User A is a pet owner?, exercise enthusiast?, and already tracks steps?
-
-After 24 hours, user (met/did not meet) step goal.
-
-#### Scenarios
-1. User (fed/did not feed) pet 
-2. User (leveled up/did not level up) pet
-3. User (joined/did not join) a challenge
-4. User (viewed/did not view) the leaderboard
+_Not yet complete_
 
 
 ## Results
 
 #### Usability Issues
-1. issue 1
+1. Notifications: Users wanted to be notified when they were close to meeting their step goal and when they were close to losing a challenge.
 2. issue 2
 3. issue 3
 
