@@ -50,8 +50,6 @@ After 24 hours, the project team met with each user individually to discuss thei
 
 ## Participants
 
-<hr>
-
 ### User A
 _Test took place on 12/01/2023 at UH Manoa._
 
